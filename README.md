@@ -1,4 +1,9 @@
-# swaglabs-demo
-#Step 1
-Read me file. 
-Todo: Add project set up
+# SwagLabs Test Demo
+
+This is a demo project for test automation
+
+## Steps to import and run project
+
+ 1. Clone project in your local machine
+ 2. Import project as Maven Project in Eclipse IDE
+ 3. Right click on 'testng.xml' file and select run as TestNG  Suite (If 'Run as TestNG Suite' option is not available,   install TestNG plugin for eclipse from Eclipse Market Place').
