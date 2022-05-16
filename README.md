@@ -1,6 +1,7 @@
 # SwagLabs Test Demo
 
 This is a demo project for test automation
+
 (This project is configured to run on Chrome browser)
 
 ## Steps to import and run project
